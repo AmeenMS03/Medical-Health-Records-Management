@@ -4,6 +4,12 @@
 
 This project was developed as part of the course "Object-Oriented Programming" at Abu Dhabi University. It focuses on converting complex medical health data into a standardized format suitable for further analysis. The system reads raw data from sensors and other medical indicators, processes it, and categorizes the information into predefined groups. The project is built using Object-Oriented Programming (OOP) principles in Java, employing interfaces and abstract methods for handling medical records efficiently.
 
+## Contributors
+1. Ameen Siddiqui
+2. [Johann](https://github.com/JohannC05)
+3. Omar Abdulla Alzaabi
+
+
 ## Project Objectives
 
 - **Data Processing:** Read and process medical health records from a structured input file.
